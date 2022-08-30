@@ -1,2 +1,0 @@
-# OIBGRIP
-internship tasks projects
